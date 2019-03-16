@@ -10,7 +10,6 @@
 		5C872A7C223D1F2E006683F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C872A7B223D1F2E006683F4 /* AppDelegate.swift */; };
 		5C872A83223D1F31006683F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C872A82223D1F31006683F4 /* Assets.xcassets */; };
 		5C872A86223D1F31006683F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C872A84223D1F31006683F4 /* LaunchScreen.storyboard */; };
-		5C872A8E223D1F48006683F4 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 5C872A8D223D1F48006683F4 /* Podfile */; };
 		5C872A96223D1FCB006683F4 /* MainCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C872A95223D1FCB006683F4 /* MainCoordinator.swift */; };
 		5C872A99223D1FF0006683F4 /* ApplicationContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C872A98223D1FF0006683F4 /* ApplicationContext.swift */; };
 /* End PBXBuildFile section */
@@ -167,7 +166,6 @@
 			files = (
 				5C872A86223D1F31006683F4 /* LaunchScreen.storyboard in Resources */,
 				5C872A83223D1F31006683F4 /* Assets.xcassets in Resources */,
-				5C872A8E223D1F48006683F4 /* Podfile in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
